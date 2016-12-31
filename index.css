@@ -82,6 +82,7 @@ h3:hover {
 	margin-bottom: 40px;
 	width: 200px;
 	cursor: auto !important;
+	margin-top: 10px !important;
 }
 
 #restart {
