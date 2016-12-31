@@ -68,7 +68,7 @@ function go(arg) {
 		}
 		func();
 		check();
-		if (oWin != "Player 2 win!") {
+		if (oWin != "Player 2 win!" && turn == 0) {
 			turn = 1;
 			b = 1;
 			setTimeout(function() {
