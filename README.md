@@ -1,4 +1,4 @@
 # tic_tac_toe_game
-see work http://codepen.io/upanan82/full/wzVRxV/
+see work https://upanan82.github.io/tic_tac_toe_game/
 
 © upanan82
