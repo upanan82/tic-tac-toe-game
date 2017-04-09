@@ -26,12 +26,12 @@ h3:hover {
 
 @font-face {
 	font-family: Pomp;
-	src: url(font1.ttf);
+	src: url(fonts/font1.ttf);
 }
 
 @font-face {
 	font-family: Pomp1;
-	src: url(font.ttf);
+	src: url(fonts/font.ttf);
 }
 
 .content {
